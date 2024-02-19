@@ -1,6 +1,6 @@
-# Title (replace with your title)
+# What is Regex?
 
-Introductory paragraph (replace this with your text)
+Regex, or Regular Expression, is a sequence of characters meant to define a specific search pattern.
 
 ## Summary
 
